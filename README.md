@@ -1,5 +1,4 @@
 # PostgreSQL-dvdrental-project 🎬
-PostgreSQL dvdrental sample database for query practice
 This project explores the popular `dvdrental` sample database using PostgreSQL. It includes SQL practice covering fundamentals, joins, filtering, data types, schema design, and advanced queries.
 - Source: [dvdrental Sample Dataset](https://github.com/imkumaraju/dvdrenat-sample-databse)
   
