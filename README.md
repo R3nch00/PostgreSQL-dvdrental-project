@@ -17,3 +17,37 @@ postgresql-dvdrental-project/
 │   ├── 06_conditionals.sql
 │   └── 07_joins_and_schemas.sql
 └── README.md
+
+📚 Topics Covered
+  •	✅ PostgreSQL Basics
+
+  •	✅ Data Types & Filtering
+
+  •	✅ Table Creation and Management
+
+  •	✅ Joins, Subqueries & Schemas
+
+  •	✅ Modifying Data with Conditions
+
+  •	✅ Real-world use cases with practice queries
+
+🚀 How to Use
+
+1. Restore the Database
+  •	Open pgAdmin 4
+  •	Create a new database: dvdrental
+  •	Go to Restore → Select dvdrental.tar → Format: Custom or tar
+  •	Check ✅ "Clean before restore"
+  •	Click Restore
+2. Explore Queries
+  •	Go to the /sql folder
+  •	Open each SQL file and run the queries in pgAdmin or psql
+
+📸 Screenshots
+
+🛠️ Requirements
+  •	PostgreSQL 13+
+  •	pgAdmin 4 / SQL Shell (psql)
+
+📃 License
+This project is open-source under the MIT License.
