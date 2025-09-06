@@ -48,5 +48,3 @@ postgresql-dvdrental-project/
   •	PostgreSQL 13+
   •	pgAdmin 4 / SQL Shell (psql)
 
-📃 License
-This project is open-source under the MIT License.
